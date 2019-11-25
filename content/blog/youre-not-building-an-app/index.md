@@ -1,11 +1,11 @@
 ---
-title: You're not building an app
+title: You're not building an app?
 date: "2019-11-29T22:40:32.169Z"
 description: An early decision had to be made on whether the team should embark on building a native app as part of our new to market propisition
 ---
 
 ![You cannot be serious](./johnmcenroe.png)
-
+c
 
 Before we began on our journey build a new digital native saving pillar for the Private Bank, there was a a nailed on assumption that we would be building a shiny new app for our new clients to interact with. 
 In previous carnations, if the view of the [highest paid persons view](https://whatis.techtarget.com/definition/HiPPOs-highest-paid-persons-opinions) was we’re building an app… we’d be building an app :-)
