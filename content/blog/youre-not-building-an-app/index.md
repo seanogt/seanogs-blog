@@ -25,11 +25,22 @@ The first week with the team in place involved everyone working [rapidly prototy
 The sample set of people we interacted with gave feedback consistent with the harris survey. We also had a number of people highlighting a drop-off point when we had asked them to install an app on their phone. People were uncomfortable installing an app on their phone that provides only savings product.
 
 
-
-## MVP doesn’t mean never!
+##One version of the code allows the team to rapidly build, measure and learn
 
 ![Build Measure Learn](./mvp.png)
 
+The decision not to build a native iOS or Android app has many advantages. 
+- Not requiring specialist mobile developer skills from day one enables: 
+The team can remain lean in terms of size as we don't need mobile developer specialist skills within the team for day one
+- The team can rapidly deploy value adding features without having to wait for [app store reviews](https://developer.apple.com/app-store/review/)
+- Implementing telemetry on a website is significantly easier and cheaper with a website enabling the team to observe what the application behaves and how clients are using the application
+- [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) a website is a order of magnitude easier than achieving the same outcome via a native application
+
+
+
+
+## MVP doesn’t mean never!
+
+
 We are looking to take the lead from the likes of Nutmeg and Marcus from Goldman Sachs who both delayed the launch of their apps until well after their official launch to market.
 The team have a huge amount of work to get through in order to hit our target of a mid-2020 launch. Maximising the work we don’t do to achieve that outcome gives us every chance of achieving this.
-
